@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=liangin233&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide=prs,issues"/>
-<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=liangin233&layout=compact&langs_count=8&theme=algolia"/>
+<img src="https://github-readme-stats.vercel.app/api?username=liangyin233"/>
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=liangyin233"/>
