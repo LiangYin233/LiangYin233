@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm LiangYin
 
-- 🔭 I’m currently working on [NatureWindows](https://github.com/NatureWindows)
-- 📫 How to reach me: Email:liangyingugugu@163.com
+- 🔭 I’m currently working on [HotoCSS](https://github.com/LiangYin233/HotoCSS)
+- 📫 How to reach me: Email: liangyingugugu@163.com or outllok email address
 <!--
 **LiangYin233/LiangYin233** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
