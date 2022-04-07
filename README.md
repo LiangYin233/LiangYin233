@@ -18,5 +18,4 @@ Here are some ideas to get you started:
 -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=liangyin233&show_icons=true&locale=cn&count_private=true&hide_border=true"/>
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=liangyin233"/>
 </p>
