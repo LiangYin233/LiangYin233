@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm LiangYin
 
 - 🔭 I’m currently working on [Starte]([https://github.com/LiangYin233/HotoCSS](https://github.com/discoverse-space))
-- 🌱 I’m currently learning some algorithm and Vue.
+- 🌱 I’m currently learning some algorithms and Vue.
 - 📫 How to reach me: Email: liangyingugugu@163.com or outllok email address
 <!--
 **LiangYin233/LiangYin233** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
