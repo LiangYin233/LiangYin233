@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on ... A secret:)
 - 🌱 I’m currently learning Rust.
-- 📫 How to reach me: Email: liangyingugugu@163.com or outllok email address
+- 📫 How to reach me: Email: liangyingugugu@outlook.com or liangyin@discoverse.space
 <!--
 **LiangYin233/LiangYin233** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
