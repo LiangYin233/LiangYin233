@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm LiangYin
 
-- 🔭 I’m currently working on ... A secret:)
+- 🔭 I’m currently working on [Starte-PC](https://github.com/discoverse-space/Starte-PC).
 - 🌱 I’m currently learning Rust.
 - 📫 How to reach me: Email: liangyingugugu@outlook.com or liangyin@discoverse.space
 <!--
