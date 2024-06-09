@@ -1,8 +1,7 @@
 ### Hi there 👋 I'm LiangYin
 
-- 🔭 I’m currently working on [Starte-PC](https://github.com/discoverse-space/Starte-PC).
-- 🌱 I’m currently learning Rust.
-- 📫 How to reach me: Email: liangyingugugu@outlook.com or liangyin@discoverse.space
+- 🔭 I’m currently working on Lyrics-Share and some new planning projects
+- 📫 How to reach me: Email: liangyingugugu@outlook.com
 <!--
 **LiangYin233/LiangYin233** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
